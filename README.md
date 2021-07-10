@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<script>alert('hallo!')</script>
+<b>dit is bolt</b>
