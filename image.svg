@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" width="298" height="170">
     <style>
         .day {
             fill: green
@@ -7,65 +7,72 @@
 
     <g transform="translate(10, 20)" font-size="10">
         
-           <text x="-10" y="8">
-               Mon
-           </text>
+            <text x="-10" y="8">
+                Mon
+            </text>
         
-           <text x="-10" y="24">
-               Tue
-           </text>
+            <text x="-10" y="24">
+                Tue
+            </text>
         
-           <text x="-10" y="40">
-               Wed
-           </text>
+            <text x="-10" y="40">
+                Wed
+            </text>
         
-           <text x="-10" y="56">
-               Thu
-           </text>
+            <text x="-10" y="56">
+                Thu
+            </text>
         
-           <text x="-10" y="72">
-               Fri
-           </text>
+            <text x="-10" y="72">
+                Fri
+            </text>
         
-           <text x="-10" y="88">
-               Sat
-           </text>
+            <text x="-10" y="88">
+                Sat
+            </text>
         
-           <text x="-10" y="104">
-               Sun
-           </text>
+            <text x="-10" y="104">
+                Sun
+            </text>
         
 
         
             <g transform="translate(0, 0)">
                 
                     <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
-                          fill-opacity="0.2946219797349961"
-                    ></rect>
+                          fill-opacity="0.2946219797349961">
+                        <title>1134 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
-                          fill-opacity="0.15926214601195116"
-                    ></rect>
+                          fill-opacity="0.15926214601195116">
+                        <title>613 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
-                          fill-opacity="0.1348402182385035"
-                    ></rect>
+                          fill-opacity="0.1348402182385035">
+                        <title>519 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
-                          fill-opacity="0.23564562223954275"
-                    ></rect>
+                          fill-opacity="0.23564562223954275">
+                        <title>907 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
-                          fill-opacity="0.3325539101065212"
-                    ></rect>
+                          fill-opacity="0.3325539101065212">
+                        <title>1280 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
-                          fill-opacity="0.3133281371784879"
-                    ></rect>
+                          fill-opacity="0.3133281371784879">
+                        <title>1206 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
-                          fill-opacity="0.2590283190439075"
-                    ></rect>
+                          fill-opacity="0.2590283190439075">
+                        <title>997 downloads</title>
+                    </rect>
                 
                 <text x="16" y="120">
                     1
@@ -75,32 +82,39 @@
             <g transform="translate(16, 0)">
                 
                     <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
-                          fill-opacity="0.39984411535463754"
-                    ></rect>
+                          fill-opacity="0.39984411535463754">
+                        <title>1539 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
-                          fill-opacity="0.27929332294102366"
-                    ></rect>
+                          fill-opacity="0.27929332294102366">
+                        <title>1075 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
-                          fill-opacity="0.2922837100545596"
-                    ></rect>
+                          fill-opacity="0.2922837100545596">
+                        <title>1125 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
-                          fill-opacity="0.26214601195115617"
-                    ></rect>
+                          fill-opacity="0.26214601195115617">
+                        <title>1009 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
-                          fill-opacity="0.323460639127046"
-                    ></rect>
+                          fill-opacity="0.323460639127046">
+                        <title>1245 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
-                          fill-opacity="0.3424266043128085"
-                    ></rect>
+                          fill-opacity="0.3424266043128085">
+                        <title>1318 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
-                          fill-opacity="0.41595219537542216"
-                    ></rect>
+                          fill-opacity="0.41595219537542216">
+                        <title>1601 downloads</title>
+                    </rect>
                 
                 <text x="16" y="120">
                     2
@@ -110,32 +124,39 @@
             <g transform="translate(32, 0)">
                 
                     <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
-                          fill-opacity="0.4307612366848532"
-                    ></rect>
+                          fill-opacity="0.4307612366848532">
+                        <title>1658 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
-                          fill-opacity="0.3471031436736815"
-                    ></rect>
+                          fill-opacity="0.3471031436736815">
+                        <title>1336 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
-                          fill-opacity="0.31384775266302933"
-                    ></rect>
+                          fill-opacity="0.31384775266302933">
+                        <title>1208 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
-                          fill-opacity="0.45700181865419587"
-                    ></rect>
+                          fill-opacity="0.45700181865419587">
+                        <title>1759 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
-                          fill-opacity="0.40659911665367626"
-                    ></rect>
+                          fill-opacity="0.40659911665367626">
+                        <title>1565 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
-                          fill-opacity="0.4305014289425825"
-                    ></rect>
+                          fill-opacity="0.4305014289425825">
+                        <title>1657 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
-                          fill-opacity="0.41283450246817355"
-                    ></rect>
+                          fill-opacity="0.41283450246817355">
+                        <title>1589 downloads</title>
+                    </rect>
                 
                 <text x="16" y="120">
                     3
@@ -145,32 +166,39 @@
             <g transform="translate(48, 0)">
                 
                     <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
-                          fill-opacity="0.5692387633151468"
-                    ></rect>
+                          fill-opacity="0.5692387633151468">
+                        <title>2191 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
-                          fill-opacity="0.19225772928033255"
-                    ></rect>
+                          fill-opacity="0.19225772928033255">
+                        <title>740 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
-                          fill-opacity="0.15536502987789036"
-                    ></rect>
+                          fill-opacity="0.15536502987789036">
+                        <title>598 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
-                          fill-opacity="0.3091712133021564"
-                    ></rect>
+                          fill-opacity="0.3091712133021564">
+                        <title>1190 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
-                          fill-opacity="0.4107560405300078"
-                    ></rect>
+                          fill-opacity="0.4107560405300078">
+                        <title>1581 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
-                          fill-opacity="0.3907508443751624"
-                    ></rect>
+                          fill-opacity="0.3907508443751624">
+                        <title>1504 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
-                          fill-opacity="0.4814237464276435"
-                    ></rect>
+                          fill-opacity="0.4814237464276435">
+                        <title>1853 downloads</title>
+                    </rect>
                 
                 <text x="16" y="120">
                     4
@@ -180,32 +208,39 @@
             <g transform="translate(64, 0)">
                 
                     <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
-                          fill-opacity="0.6183424266043128"
-                    ></rect>
+                          fill-opacity="0.6183424266043128">
+                        <title>2380 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
-                          fill-opacity="0.27383736035333855"
-                    ></rect>
+                          fill-opacity="0.27383736035333855">
+                        <title>1054 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
-                          fill-opacity="0.26318524292023904"
-                    ></rect>
+                          fill-opacity="0.26318524292023904">
+                        <title>1013 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
-                          fill-opacity="0.4175110418290465"
-                    ></rect>
+                          fill-opacity="0.4175110418290465">
+                        <title>1607 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
-                          fill-opacity="0.7045985970381917"
-                    ></rect>
+                          fill-opacity="0.7045985970381917">
+                        <title>2712 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
-                          fill-opacity="0.7053780202650038"
-                    ></rect>
+                          fill-opacity="0.7053780202650038">
+                        <title>2715 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
-                          fill-opacity="0.9301117173291764"
-                    ></rect>
+                          fill-opacity="0.9301117173291764">
+                        <title>3580 downloads</title>
+                    </rect>
                 
                 <text x="16" y="120">
                     5
@@ -215,32 +250,39 @@
             <g transform="translate(80, 0)">
                 
                     <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
-                          fill-opacity="0.4185502727981294"
-                    ></rect>
+                          fill-opacity="0.4185502727981294">
+                        <title>1611 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
-                          fill-opacity="0.2982592881267862"
-                    ></rect>
+                          fill-opacity="0.2982592881267862">
+                        <title>1148 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
-                          fill-opacity="0.3689269940244219"
-                    ></rect>
+                          fill-opacity="0.3689269940244219">
+                        <title>1420 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
-                          fill-opacity="0.6474408937386334"
-                    ></rect>
+                          fill-opacity="0.6474408937386334">
+                        <title>2492 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
-                          fill-opacity="0.6591322421408158"
-                    ></rect>
+                          fill-opacity="0.6591322421408158">
+                        <title>2537 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
-                          fill-opacity="0.4892179786957651"
-                    ></rect>
+                          fill-opacity="0.4892179786957651">
+                        <title>1883 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
-                          fill-opacity="0.5913224214081579"
-                    ></rect>
+                          fill-opacity="0.5913224214081579">
+                        <title>2276 downloads</title>
+                    </rect>
                 
                 <text x="16" y="120">
                     6
@@ -250,32 +292,39 @@
             <g transform="translate(96, 0)">
                 
                     <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
-                          fill-opacity="0.5074045206547155"
-                    ></rect>
+                          fill-opacity="0.5074045206547155">
+                        <title>1953 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
-                          fill-opacity="0.25772928033255393"
-                    ></rect>
+                          fill-opacity="0.25772928033255393">
+                        <title>992 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
-                          fill-opacity="0.1704338789295921"
-                    ></rect>
+                          fill-opacity="0.1704338789295921">
+                        <title>656 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
-                          fill-opacity="0.3915302676019745"
-                    ></rect>
+                          fill-opacity="0.3915302676019745">
+                        <title>1507 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
-                          fill-opacity="0.4016627695505326"
-                    ></rect>
+                          fill-opacity="0.4016627695505326">
+                        <title>1546 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
-                          fill-opacity="0.44998700961288646"
-                    ></rect>
+                          fill-opacity="0.44998700961288646">
+                        <title>1732 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
-                          fill-opacity="0.5019485580670304"
-                    ></rect>
+                          fill-opacity="0.5019485580670304">
+                        <title>1932 downloads</title>
+                    </rect>
                 
                 <text x="16" y="120">
                     7
@@ -285,32 +334,39 @@
             <g transform="translate(112, 0)">
                 
                     <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
-                          fill-opacity="0.421667965705378"
-                    ></rect>
+                          fill-opacity="0.421667965705378">
+                        <title>1623 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
-                          fill-opacity="0.3567160301376981"
-                    ></rect>
+                          fill-opacity="0.3567160301376981">
+                        <title>1373 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
-                          fill-opacity="0.3315146791374383"
-                    ></rect>
+                          fill-opacity="0.3315146791374383">
+                        <title>1276 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
-                          fill-opacity="0.6063912704598597"
-                    ></rect>
+                          fill-opacity="0.6063912704598597">
+                        <title>2334 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
-                          fill-opacity="0.5528708755520915"
-                    ></rect>
+                          fill-opacity="0.5528708755520915">
+                        <title>2128 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
-                          fill-opacity="0.5201351000259807"
-                    ></rect>
+                          fill-opacity="0.5201351000259807">
+                        <title>2002 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
-                          fill-opacity="0.5533904910366328"
-                    ></rect>
+                          fill-opacity="0.5533904910366328">
+                        <title>2130 downloads</title>
+                    </rect>
                 
                 <text x="16" y="120">
                     8
@@ -320,32 +376,39 @@
             <g transform="translate(128, 0)">
                 
                     <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
-                          fill-opacity="0.5559885684593401"
-                    ></rect>
+                          fill-opacity="0.5559885684593401">
+                        <title>2140 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
-                          fill-opacity="0.20680696284749286"
-                    ></rect>
+                          fill-opacity="0.20680696284749286">
+                        <title>796 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
-                          fill-opacity="0.30267601974538844"
-                    ></rect>
+                          fill-opacity="0.30267601974538844">
+                        <title>1165 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
-                          fill-opacity="0.4915562483762016"
-                    ></rect>
+                          fill-opacity="0.4915562483762016">
+                        <title>1892 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
-                          fill-opacity="0.7045985970381917"
-                    ></rect>
+                          fill-opacity="0.7045985970381917">
+                        <title>2712 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
-                          fill-opacity="0.4697323980254612"
-                    ></rect>
+                          fill-opacity="0.4697323980254612">
+                        <title>1808 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
-                          fill-opacity="0.6944660950896336"
-                    ></rect>
+                          fill-opacity="0.6944660950896336">
+                        <title>2673 downloads</title>
+                    </rect>
                 
                 <text x="16" y="120">
                     9
@@ -355,32 +418,39 @@
             <g transform="translate(144, 0)">
                 
                     <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
-                          fill-opacity="0.5359833723044947"
-                    ></rect>
+                          fill-opacity="0.5359833723044947">
+                        <title>2063 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
-                          fill-opacity="0.3803585346843336"
-                    ></rect>
+                          fill-opacity="0.3803585346843336">
+                        <title>1464 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
-                          fill-opacity="0.4146531566640686"
-                    ></rect>
+                          fill-opacity="0.4146531566640686">
+                        <title>1596 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
-                          fill-opacity="0.5819693426864121"
-                    ></rect>
+                          fill-opacity="0.5819693426864121">
+                        <title>2240 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
-                          fill-opacity="0.8163159262146011"
-                    ></rect>
+                          fill-opacity="0.8163159262146011">
+                        <title>3142 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
-                          fill-opacity="0.607950116913484"
-                    ></rect>
+                          fill-opacity="0.607950116913484">
+                        <title>2340 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
-                          fill-opacity="0.5697583787996883"
-                    ></rect>
+                          fill-opacity="0.5697583787996883">
+                        <title>2193 downloads</title>
+                    </rect>
                 
                 <text x="16" y="120">
                     10
@@ -390,32 +460,39 @@
             <g transform="translate(160, 0)">
                 
                     <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
-                          fill-opacity="0.518056638087815"
-                    ></rect>
+                          fill-opacity="0.518056638087815">
+                        <title>1994 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
-                          fill-opacity="0.27097947518836063"
-                    ></rect>
+                          fill-opacity="0.27097947518836063">
+                        <title>1043 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
-                          fill-opacity="0.2309690828786698"
-                    ></rect>
+                          fill-opacity="0.2309690828786698">
+                        <title>889 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
-                          fill-opacity="0.6495193556767992"
-                    ></rect>
+                          fill-opacity="0.6495193556767992">
+                        <title>2500 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
-                          fill-opacity="0.6988828267082359"
-                    ></rect>
+                          fill-opacity="0.6988828267082359">
+                        <title>2690 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
-                          fill-opacity="0.6723824369966225"
-                    ></rect>
+                          fill-opacity="0.6723824369966225">
+                        <title>2588 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
-                          fill-opacity="0.5240322161600416"
-                    ></rect>
+                          fill-opacity="0.5240322161600416">
+                        <title>2017 downloads</title>
+                    </rect>
                 
                 <text x="16" y="120">
                     11
@@ -425,32 +502,39 @@
             <g transform="translate(176, 0)">
                 
                     <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
-                          fill-opacity="0.970381917381138"
-                    ></rect>
+                          fill-opacity="0.970381917381138">
+                        <title>3735 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
-                          fill-opacity="0.36009353078721745"
-                    ></rect>
+                          fill-opacity="0.36009353078721745">
+                        <title>1386 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
-                          fill-opacity="0.37178487918939984"
-                    ></rect>
+                          fill-opacity="0.37178487918939984">
+                        <title>1431 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
-                          fill-opacity="0.8695765133800988"
-                    ></rect>
+                          fill-opacity="0.8695765133800988">
+                        <title>3347 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
-                          fill-opacity="0.7853988048843855"
-                    ></rect>
+                          fill-opacity="0.7853988048843855">
+                        <title>3023 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
-                          fill-opacity="0.7547414912964406"
-                    ></rect>
+                          fill-opacity="0.7547414912964406">
+                        <title>2905 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
-                          fill-opacity="1.0"
-                    ></rect>
+                          fill-opacity="1.0">
+                        <title>3849 downloads</title>
+                    </rect>
                 
                 <text x="16" y="120">
                     12
@@ -460,32 +544,39 @@
             <g transform="translate(192, 0)">
                 
                     <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
-                          fill-opacity="0.7227851389971421"
-                    ></rect>
+                          fill-opacity="0.7227851389971421">
+                        <title>2782 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
-                          fill-opacity="0.7004416731618602"
-                    ></rect>
+                          fill-opacity="0.7004416731618602">
+                        <title>2696 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
-                          fill-opacity="0.37334372564302415"
-                    ></rect>
+                          fill-opacity="0.37334372564302415">
+                        <title>1437 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
-                          fill-opacity="0.606131462717589"
-                    ></rect>
+                          fill-opacity="0.606131462717589">
+                        <title>2333 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
-                          fill-opacity="0.9106261366588725"
-                    ></rect>
+                          fill-opacity="0.9106261366588725">
+                        <title>3505 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
-                          fill-opacity="0.7305793712652637"
-                    ></rect>
+                          fill-opacity="0.7305793712652637">
+                        <title>2812 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
-                          fill-opacity="0.7651338009872695"
-                    ></rect>
+                          fill-opacity="0.7651338009872695">
+                        <title>2945 downloads</title>
+                    </rect>
                 
                 <text x="16" y="120">
                     13
@@ -495,32 +586,39 @@
             <g transform="translate(208, 0)">
                 
                     <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
-                          fill-opacity="0.5806703039750585"
-                    ></rect>
+                          fill-opacity="0.5806703039750585">
+                        <title>2235 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
-                          fill-opacity="0.42348661990127306"
-                    ></rect>
+                          fill-opacity="0.42348661990127306">
+                        <title>1630 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
-                          fill-opacity="0.45232527929332295"
-                    ></rect>
+                          fill-opacity="0.45232527929332295">
+                        <title>1741 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
-                          fill-opacity="0.5980774227071967"
-                    ></rect>
+                          fill-opacity="0.5980774227071967">
+                        <title>2302 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
-                          fill-opacity="0.5630033775006495"
-                    ></rect>
+                          fill-opacity="0.5630033775006495">
+                        <title>2167 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
-                          fill-opacity="0.5684593400883347"
-                    ></rect>
+                          fill-opacity="0.5684593400883347">
+                        <title>2188 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
-                          fill-opacity="0.527409716809561"
-                    ></rect>
+                          fill-opacity="0.527409716809561">
+                        <title>2030 downloads</title>
+                    </rect>
                 
                 <text x="16" y="120">
                     14
@@ -530,32 +628,39 @@
             <g transform="translate(224, 0)">
                 
                     <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
-                          fill-opacity="0.6812159002338269"
-                    ></rect>
+                          fill-opacity="0.6812159002338269">
+                        <title>2622 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
-                          fill-opacity="0.41361392569498573"
-                    ></rect>
+                          fill-opacity="0.41361392569498573">
+                        <title>1592 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
-                          fill-opacity="0.359573915302676"
-                    ></rect>
+                          fill-opacity="0.359573915302676">
+                        <title>1384 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
-                          fill-opacity="0.5352039490776825"
-                    ></rect>
+                          fill-opacity="0.5352039490776825">
+                        <title>2060 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
-                          fill-opacity="0.5840478046245778"
-                    ></rect>
+                          fill-opacity="0.5840478046245778">
+                        <title>2248 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
-                          fill-opacity="0.700701480904131"
-                    ></rect>
+                          fill-opacity="0.700701480904131">
+                        <title>2697 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
-                          fill-opacity="0.6287347362951416"
-                    ></rect>
+                          fill-opacity="0.6287347362951416">
+                        <title>2420 downloads</title>
+                    </rect>
                 
                 <text x="16" y="120">
                     15
@@ -565,32 +670,39 @@
             <g transform="translate(240, 0)">
                 
                     <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
-                          fill-opacity="0.8054040010392309"
-                    ></rect>
+                          fill-opacity="0.8054040010392309">
+                        <title>3100 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
-                          fill-opacity="0.35853468433359315"
-                    ></rect>
+                          fill-opacity="0.35853468433359315">
+                        <title>1380 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
-                          fill-opacity="0.3185242920239023"
-                    ></rect>
+                          fill-opacity="0.3185242920239023">
+                        <title>1226 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
-                          fill-opacity="0.7092751363990647"
-                    ></rect>
+                          fill-opacity="0.7092751363990647">
+                        <title>2730 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
-                          fill-opacity="0.7607170693686672"
-                    ></rect>
+                          fill-opacity="0.7607170693686672">
+                        <title>2928 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
-                          fill-opacity="0.8778903611327618"
-                    ></rect>
+                          fill-opacity="0.8778903611327618">
+                        <title>3379 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
-                          fill-opacity="0.7344764873993245"
-                    ></rect>
+                          fill-opacity="0.7344764873993245">
+                        <title>2827 downloads</title>
+                    </rect>
                 
                 <text x="16" y="120">
                     16
@@ -600,32 +712,39 @@
             <g transform="translate(256, 0)">
                 
                     <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
-                          fill-opacity="0.7721486100285788"
-                    ></rect>
+                          fill-opacity="0.7721486100285788">
+                        <title>2972 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
-                          fill-opacity="0.413354117952715"
-                    ></rect>
+                          fill-opacity="0.413354117952715">
+                        <title>1591 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
-                          fill-opacity="0.41283450246817355"
-                    ></rect>
+                          fill-opacity="0.41283450246817355">
+                        <title>1589 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
-                          fill-opacity="0.7638347622759158"
-                    ></rect>
+                          fill-opacity="0.7638347622759158">
+                        <title>2940 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
-                          fill-opacity="0.7983891919979216"
-                    ></rect>
+                          fill-opacity="0.7983891919979216">
+                        <title>3073 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
-                          fill-opacity="0.5778124188100805"
-                    ></rect>
+                          fill-opacity="0.5778124188100805">
+                        <title>2224 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
-                          fill-opacity="0.6492595479345284"
-                    ></rect>
+                          fill-opacity="0.6492595479345284">
+                        <title>2499 downloads</title>
+                    </rect>
                 
                 <text x="16" y="120">
                     17
@@ -635,32 +754,39 @@
             <g transform="translate(272, 0)">
                 
                     <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
-                          fill-opacity="0.933229410236425"
-                    ></rect>
+                          fill-opacity="0.933229410236425">
+                        <title>3592 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
-                          fill-opacity="0.4006235385814497"
-                    ></rect>
+                          fill-opacity="0.4006235385814497">
+                        <title>1542 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
-                          fill-opacity="0.3897116134060795"
-                    ></rect>
+                          fill-opacity="0.3897116134060795">
+                        <title>1500 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
-                          fill-opacity="0.6167835801506885"
-                    ></rect>
+                          fill-opacity="0.6167835801506885">
+                        <title>2374 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
-                          fill-opacity="0.8254091971940763"
-                    ></rect>
+                          fill-opacity="0.8254091971940763">
+                        <title>3177 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
-                          fill-opacity="0.8521693946479605"
-                    ></rect>
+                          fill-opacity="0.8521693946479605">
+                        <title>3280 downloads</title>
+                    </rect>
                 
                     <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
-                          fill-opacity="0.75811899194596"
-                    ></rect>
+                          fill-opacity="0.75811899194596">
+                        <title>2918 downloads</title>
+                    </rect>
                 
                 <text x="16" y="120">
                     18
@@ -668,5 +794,6 @@
             </g>
         
 
+        <text x="0" y="136">Generated on 2021-07-12 13:34:58.746849</text>
     </g>
 </svg>
