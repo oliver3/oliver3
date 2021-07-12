@@ -1,6 +1,8 @@
 name: Create SVG
 
 on:
+  workflow_dispatch: # manual run
+  push:
   schedule:
     - cron:  '0 5 * * *'
 
