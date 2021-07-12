@@ -1,0 +1,672 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="200">
+    <style>
+        .day {
+            fill: green
+        }
+    </style>
+
+    <g transform="translate(10, 20)" font-size="10">
+        
+           <text x="-10" y="8">
+               Mon
+           </text>
+        
+           <text x="-10" y="24">
+               Tue
+           </text>
+        
+           <text x="-10" y="40">
+               Wed
+           </text>
+        
+           <text x="-10" y="56">
+               Thu
+           </text>
+        
+           <text x="-10" y="72">
+               Fri
+           </text>
+        
+           <text x="-10" y="88">
+               Sat
+           </text>
+        
+           <text x="-10" y="104">
+               Sun
+           </text>
+        
+
+        
+            <g transform="translate(0, 0)">
+                
+                    <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
+                          fill-opacity="0.2946219797349961"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
+                          fill-opacity="0.15926214601195116"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
+                          fill-opacity="0.1348402182385035"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
+                          fill-opacity="0.23564562223954275"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
+                          fill-opacity="0.3325539101065212"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
+                          fill-opacity="0.3133281371784879"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
+                          fill-opacity="0.2590283190439075"
+                    ></rect>
+                
+                <text x="16" y="120">
+                    1
+                </text>
+            </g>
+        
+            <g transform="translate(16, 0)">
+                
+                    <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
+                          fill-opacity="0.39984411535463754"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
+                          fill-opacity="0.27929332294102366"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
+                          fill-opacity="0.2922837100545596"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
+                          fill-opacity="0.26214601195115617"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
+                          fill-opacity="0.323460639127046"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
+                          fill-opacity="0.3424266043128085"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
+                          fill-opacity="0.41595219537542216"
+                    ></rect>
+                
+                <text x="16" y="120">
+                    2
+                </text>
+            </g>
+        
+            <g transform="translate(32, 0)">
+                
+                    <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
+                          fill-opacity="0.4307612366848532"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
+                          fill-opacity="0.3471031436736815"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
+                          fill-opacity="0.31384775266302933"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
+                          fill-opacity="0.45700181865419587"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
+                          fill-opacity="0.40659911665367626"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
+                          fill-opacity="0.4305014289425825"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
+                          fill-opacity="0.41283450246817355"
+                    ></rect>
+                
+                <text x="16" y="120">
+                    3
+                </text>
+            </g>
+        
+            <g transform="translate(48, 0)">
+                
+                    <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
+                          fill-opacity="0.5692387633151468"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
+                          fill-opacity="0.19225772928033255"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
+                          fill-opacity="0.15536502987789036"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
+                          fill-opacity="0.3091712133021564"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
+                          fill-opacity="0.4107560405300078"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
+                          fill-opacity="0.3907508443751624"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
+                          fill-opacity="0.4814237464276435"
+                    ></rect>
+                
+                <text x="16" y="120">
+                    4
+                </text>
+            </g>
+        
+            <g transform="translate(64, 0)">
+                
+                    <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
+                          fill-opacity="0.6183424266043128"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
+                          fill-opacity="0.27383736035333855"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
+                          fill-opacity="0.26318524292023904"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
+                          fill-opacity="0.4175110418290465"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
+                          fill-opacity="0.7045985970381917"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
+                          fill-opacity="0.7053780202650038"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
+                          fill-opacity="0.9301117173291764"
+                    ></rect>
+                
+                <text x="16" y="120">
+                    5
+                </text>
+            </g>
+        
+            <g transform="translate(80, 0)">
+                
+                    <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
+                          fill-opacity="0.4185502727981294"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
+                          fill-opacity="0.2982592881267862"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
+                          fill-opacity="0.3689269940244219"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
+                          fill-opacity="0.6474408937386334"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
+                          fill-opacity="0.6591322421408158"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
+                          fill-opacity="0.4892179786957651"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
+                          fill-opacity="0.5913224214081579"
+                    ></rect>
+                
+                <text x="16" y="120">
+                    6
+                </text>
+            </g>
+        
+            <g transform="translate(96, 0)">
+                
+                    <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
+                          fill-opacity="0.5074045206547155"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
+                          fill-opacity="0.25772928033255393"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
+                          fill-opacity="0.1704338789295921"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
+                          fill-opacity="0.3915302676019745"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
+                          fill-opacity="0.4016627695505326"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
+                          fill-opacity="0.44998700961288646"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
+                          fill-opacity="0.5019485580670304"
+                    ></rect>
+                
+                <text x="16" y="120">
+                    7
+                </text>
+            </g>
+        
+            <g transform="translate(112, 0)">
+                
+                    <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
+                          fill-opacity="0.421667965705378"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
+                          fill-opacity="0.3567160301376981"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
+                          fill-opacity="0.3315146791374383"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
+                          fill-opacity="0.6063912704598597"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
+                          fill-opacity="0.5528708755520915"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
+                          fill-opacity="0.5201351000259807"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
+                          fill-opacity="0.5533904910366328"
+                    ></rect>
+                
+                <text x="16" y="120">
+                    8
+                </text>
+            </g>
+        
+            <g transform="translate(128, 0)">
+                
+                    <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
+                          fill-opacity="0.5559885684593401"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
+                          fill-opacity="0.20680696284749286"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
+                          fill-opacity="0.30267601974538844"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
+                          fill-opacity="0.4915562483762016"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
+                          fill-opacity="0.7045985970381917"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
+                          fill-opacity="0.4697323980254612"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
+                          fill-opacity="0.6944660950896336"
+                    ></rect>
+                
+                <text x="16" y="120">
+                    9
+                </text>
+            </g>
+        
+            <g transform="translate(144, 0)">
+                
+                    <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
+                          fill-opacity="0.5359833723044947"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
+                          fill-opacity="0.3803585346843336"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
+                          fill-opacity="0.4146531566640686"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
+                          fill-opacity="0.5819693426864121"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
+                          fill-opacity="0.8163159262146011"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
+                          fill-opacity="0.607950116913484"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
+                          fill-opacity="0.5697583787996883"
+                    ></rect>
+                
+                <text x="16" y="120">
+                    10
+                </text>
+            </g>
+        
+            <g transform="translate(160, 0)">
+                
+                    <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
+                          fill-opacity="0.518056638087815"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
+                          fill-opacity="0.27097947518836063"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
+                          fill-opacity="0.2309690828786698"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
+                          fill-opacity="0.6495193556767992"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
+                          fill-opacity="0.6988828267082359"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
+                          fill-opacity="0.6723824369966225"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
+                          fill-opacity="0.5240322161600416"
+                    ></rect>
+                
+                <text x="16" y="120">
+                    11
+                </text>
+            </g>
+        
+            <g transform="translate(176, 0)">
+                
+                    <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
+                          fill-opacity="0.970381917381138"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
+                          fill-opacity="0.36009353078721745"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
+                          fill-opacity="0.37178487918939984"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
+                          fill-opacity="0.8695765133800988"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
+                          fill-opacity="0.7853988048843855"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
+                          fill-opacity="0.7547414912964406"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
+                          fill-opacity="1.0"
+                    ></rect>
+                
+                <text x="16" y="120">
+                    12
+                </text>
+            </g>
+        
+            <g transform="translate(192, 0)">
+                
+                    <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
+                          fill-opacity="0.7227851389971421"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
+                          fill-opacity="0.7004416731618602"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
+                          fill-opacity="0.37334372564302415"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
+                          fill-opacity="0.606131462717589"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
+                          fill-opacity="0.9106261366588725"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
+                          fill-opacity="0.7305793712652637"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
+                          fill-opacity="0.7651338009872695"
+                    ></rect>
+                
+                <text x="16" y="120">
+                    13
+                </text>
+            </g>
+        
+            <g transform="translate(208, 0)">
+                
+                    <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
+                          fill-opacity="0.5806703039750585"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
+                          fill-opacity="0.42348661990127306"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
+                          fill-opacity="0.45232527929332295"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
+                          fill-opacity="0.5980774227071967"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
+                          fill-opacity="0.5630033775006495"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
+                          fill-opacity="0.5684593400883347"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
+                          fill-opacity="0.527409716809561"
+                    ></rect>
+                
+                <text x="16" y="120">
+                    14
+                </text>
+            </g>
+        
+            <g transform="translate(224, 0)">
+                
+                    <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
+                          fill-opacity="0.6812159002338269"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
+                          fill-opacity="0.41361392569498573"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
+                          fill-opacity="0.359573915302676"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
+                          fill-opacity="0.5352039490776825"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
+                          fill-opacity="0.5840478046245778"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
+                          fill-opacity="0.700701480904131"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
+                          fill-opacity="0.6287347362951416"
+                    ></rect>
+                
+                <text x="16" y="120">
+                    15
+                </text>
+            </g>
+        
+            <g transform="translate(240, 0)">
+                
+                    <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
+                          fill-opacity="0.8054040010392309"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
+                          fill-opacity="0.35853468433359315"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
+                          fill-opacity="0.3185242920239023"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
+                          fill-opacity="0.7092751363990647"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
+                          fill-opacity="0.7607170693686672"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
+                          fill-opacity="0.8778903611327618"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
+                          fill-opacity="0.7344764873993245"
+                    ></rect>
+                
+                <text x="16" y="120">
+                    16
+                </text>
+            </g>
+        
+            <g transform="translate(256, 0)">
+                
+                    <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
+                          fill-opacity="0.7721486100285788"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
+                          fill-opacity="0.413354117952715"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
+                          fill-opacity="0.41283450246817355"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
+                          fill-opacity="0.7638347622759158"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
+                          fill-opacity="0.7983891919979216"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
+                          fill-opacity="0.5778124188100805"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
+                          fill-opacity="0.6492595479345284"
+                    ></rect>
+                
+                <text x="16" y="120">
+                    17
+                </text>
+            </g>
+        
+            <g transform="translate(272, 0)">
+                
+                    <rect width="11" height="11" x="16" y="0" class="day" rx="2" ry="2"
+                          fill-opacity="0.933229410236425"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="16" class="day" rx="2" ry="2"
+                          fill-opacity="0.4006235385814497"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="32" class="day" rx="2" ry="2"
+                          fill-opacity="0.3897116134060795"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="48" class="day" rx="2" ry="2"
+                          fill-opacity="0.6167835801506885"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="64" class="day" rx="2" ry="2"
+                          fill-opacity="0.8254091971940763"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="80" class="day" rx="2" ry="2"
+                          fill-opacity="0.8521693946479605"
+                    ></rect>
+                
+                    <rect width="11" height="11" x="16" y="96" class="day" rx="2" ry="2"
+                          fill-opacity="0.75811899194596"
+                    ></rect>
+                
+                <text x="16" y="120">
+                    18
+                </text>
+            </g>
+        
+
+    </g>
+</svg>
