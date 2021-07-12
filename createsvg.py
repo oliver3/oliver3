@@ -1,5 +1,7 @@
-from jinja2 import Environment, PackageLoader
+from datetime import datetime
 from pathlib import Path
+
+from jinja2 import Environment, PackageLoader
 
 weeks = [{"week": 1, "days": [1134, 613, 519, 907, 1280, 1206, 997]},
          {"week": 2, "days": [1539, 1075, 1125, 1009, 1245, 1318, 1601]},
@@ -34,5 +36,6 @@ print('Writing %s' % image_file.absolute())
 image_file.write_text(index_template.render({
     'weeks': weeks,
     'day_max': day_max,
-    'week_days': week_days
+    'week_days': week_days,
+    'now': datetime.now()
 }))

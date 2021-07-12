@@ -19,11 +19,12 @@
                           fill-opacity="{{ day / day_max }}"
                     ></rect>
                 {% endfor %}
-                <text x="16" y="{{ 7 * 16 + 8 }}">
+                <text x="16" y="120">
                     {{ week.week }}
                 </text>
             </g>
         {% endfor %}
 
+        <text x="0" y="136">Generated on {{ now }}</text>
     </g>
 </svg>
