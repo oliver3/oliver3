@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="200">
+    <style>
+        .day {
+            fill: green
+        }
+    </style>
+
+    <g transform="translate(10, 20)" font-size="10">
+        {% for week_day in week_days %}
+           <text x="-10" y="{{ loop.index0 * 16 + 8 }}">
+               {{ week_day }}
+           </text>
+        {% endfor %}
+
+        {% for week in weeks %}
+            <g transform="translate({{ loop.index0 * 16 }}, 0)">
+                {% for day in week.days %}
+                    <rect width="11" height="11" x="16" y="{{ loop.index0 * 16 }}" class="day" rx="2" ry="2"
+                          fill-opacity="{{ day / day_max }}"
+                    ></rect>
+                {% endfor %}
+                <text x="16" y="{{ 7 * 16 + 8 }}">
+                    {{ week.week }}
+                </text>
+            </g>
+        {% endfor %}
+
+    </g>
+</svg>
