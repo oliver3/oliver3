@@ -33,5 +33,5 @@ jobs:
           git config user.email "<>"
           git add .
           git commit -m "Create new SVG"
-          git push origin master
+          git push origin main
 
