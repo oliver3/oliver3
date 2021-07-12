@@ -20,10 +20,11 @@ jobs:
           # Optional - x64 or x86 architecture, defaults to x64
           architecture: 'x64'
 
-      - name: Install dependencies
-        run: pip install # libraries go here
+#      - name: Install dependencies
+#        run: pip install # your awesome library
 
       - name: Run program
+#        run: python -m yourawesomelibrary
         run: python createsvg.py
 
       - name: Commit and push
