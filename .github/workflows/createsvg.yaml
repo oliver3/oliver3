@@ -25,7 +25,7 @@ jobs:
 
       - name: Run program
 #        run: python -m yourawesomelibrary
-        run: python createsvg.py
+        run: python -m createsvg
 
       - name: Commit and push
         run: |
